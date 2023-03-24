@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EszK4mWz9J3y3nF4y3AIliwCApYgGSegv/WPaxvqDCsVR5fslzhT5f9BtCgP81lqgMVucrvmeT+Kdequ0MAgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\NetCoreAPIPostgreSQL\\NetCoreAPIPostgre.Data\\NetCoreAPIPostgre.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

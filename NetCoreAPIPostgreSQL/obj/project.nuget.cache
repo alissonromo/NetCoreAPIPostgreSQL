@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qVmaPblDTVHs9K4pkdw974NG3xVM58G+ISmwbvujZfyqSgRbD1oEqdOiKbMV5Mws3IloPr8Vft9yjDMp0FqDmg==",
+  "dgSpecHash": "dK4guCHKclaEY0tfknvhAa3Dljgs0iiV2DBRXUqpB066698kBunxPrZMNAL0awGsBpJwiKI1ZT2XAEaDt0xUkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\NetCoreAPIPostgreSQL\\NetCoreAPIPostgreSQL\\NetCoreAPIPostgreSQL.csproj",
   "expectedPackageFiles": [

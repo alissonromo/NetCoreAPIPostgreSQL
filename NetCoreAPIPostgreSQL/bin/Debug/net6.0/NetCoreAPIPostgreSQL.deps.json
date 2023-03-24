@@ -9,6 +9,7 @@
       "NetCoreAPIPostgreSQL/1.0.0": {
         "dependencies": {
           "NetCoreAPIPostgre.Data": "1.0.0",
+          "NetCoreAPIPostgre.Model": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
