@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O6u7kD6cjxTzvSRNJ3D/CFoNxARlXxq9sKOCXZX3RyU=",
+  "Source": "NetCoreAPIPostgreSQL",
+  "BasePath": "_content/NetCoreAPIPostgreSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
